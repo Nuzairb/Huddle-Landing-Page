@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Gulpish Website",
   "main": "index.js",
-  "author": "Harry Manchanda",
+  "author": "Nuzair Ibrahim",
   "license": "MIT",
   "scripts": {
     "start": "gulp",
